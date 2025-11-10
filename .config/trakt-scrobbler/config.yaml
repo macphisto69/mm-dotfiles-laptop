@@ -1,0 +1,15 @@
+
+
+fileinfo:
+    include_regexes:
+        movie: [.*(?P<title>F1)\s*\((?P<year>\d{4})\)\.mkv]
+    whitelist:
+    - /run/media/michael/EXTSSD/TV Shows/
+    - /home/michael/Videos/Movies/
+    - /run/media/michael/EXTSSD/Movies/
+    - /run/media/michael/DATA/Movies/
+    - /home/michael/Videos/TV Shows/
+version: '1.0'
+
+players:
+    monitored: [mpv]
