@@ -77,9 +77,6 @@
                     "showVisualizer": false,
                     "useFixedWidth": false,
                     "visualizerType": "linear"
-                },
-                {
-                    "id": "WallpaperSelector"
                 }
             ],
             "right": [
