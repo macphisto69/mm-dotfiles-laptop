@@ -5,4 +5,8 @@
 # -----------------------------------------------------
 # Fastfetch
 # -----------------------------------------------------
-fastfetch
+# Only run fastfetch if this is an interactive session
+if status --is-interactive
+    fastfetch
+end
+
