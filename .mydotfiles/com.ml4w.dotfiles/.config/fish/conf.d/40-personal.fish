@@ -8,7 +8,7 @@
 # Prompt
 # -----------------------------------------------------
 # eval "$($HOME/.local/bin/oh-my-posh init fish --config $HOME/.config/ohmyposh/gruvbox.omp.json)"
-eval "$($HOME/.local/bin/oh-my-posh init fish --config $HOME/.config/ohmyposh/dracula.omp.json)"
+eval "$($HOME/.local/bin/oh-my-posh init fish --config $HOME/.config/ohmyposh/dracula-python.omp.json)"
 
 # Add doom emacs to PATH
 set PATH "$HOME/.config/emacs/bin/:$PATH"
