@@ -1,0 +1,36 @@
+# Exclude these directories
+.local/share/
+.local/state
+.local/lib/
+.mozilla/
+.npm/
+.var/
+.pki/
+.pkg-cache/
+.nv/
+.vscode/
+.putty/
+.config/fastfetch
+.config/assets
+.cache/
+.config/BraveSoftware
+.config/Code
+.config/GitKraken
+.config/GIMP
+.config/KDE
+.config/dconf
+.config/emacs
+.config/cava
+.config/kate/
+.config/kdeconnect/
+.icons/
+DATA/
+Downloads/
+NAS/
+Videos/
+Music/
+Pictures/
+
+# File/Directory patterns to exclude
+.venv
+.git
